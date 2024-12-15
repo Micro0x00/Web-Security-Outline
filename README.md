@@ -5,7 +5,6 @@ WEB SEC OUTLINE
 - File Systems and Permissions
 - Command Lines
 - Bash Crash Course
-- CURL Crash Course
 - Etc
 ### Web Fundamentals
 
@@ -25,6 +24,7 @@ WEB SEC OUTLINE
 - HTTP methods (GET, POST, PUT, DELETE, etc.)
 - Status codes and their significance
 - Headers and cookies
+- CURL Crash Course
 - Etc,
 
 ### SSL/TLS and HTTPS
