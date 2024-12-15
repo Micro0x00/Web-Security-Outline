@@ -17,14 +17,15 @@ WEB SEC OUTLINE
 ### Understanding OSI and TCP/IP Models
 
 - Layers and their role in web communication
-- Key protocols: TCP, UDP, and DNS,HTTP
+- Key protocols: TCP, UDP, and DNS, HTTP
+- Etc,
 ### HTTP Protocol
 
 - Request and response lifecycle
 - HTTP methods (GET, POST, PUT, DELETE, etc.)
 - Status codes and their significance
 - Headers and cookies
-- etc
+- Etc,
 
 ### SSL/TLS and HTTPS
 
@@ -39,6 +40,7 @@ WEB SEC OUTLINE
 - Hands-on: Create a basic web application
 - Types of authentication methods
 - Working with server-side languages and databases
+- Etc
 
 ### Testing Lifecycle
 
@@ -95,7 +97,7 @@ WEB SEC OUTLINE
 ### API TESTING 
 ### Chaining Cases 
 ### How To Get RCE from each bug  
-#### Etc.
+#### Etc,
 
 ### WebSocket Attacks
 
