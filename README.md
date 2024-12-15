@@ -13,7 +13,6 @@ WEB SEC OUTLINE
 - Overview of web technologies
 - Web application architecture
 - Understanding the client-server model
-- Building a Web App 
 
 ### Understanding OSI and TCP/IP Models
 
