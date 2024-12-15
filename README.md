@@ -1,5 +1,12 @@
 # Web-Security-Outline
 WEB SEC OUTLINE
+### OS Basics
+- User and Process Management
+- File Systems and Permissions
+- Command Lines
+- Bash Crash Course
+- CURL Crash Course
+- Etc
 ### Web Fundamentals
 
 - Introduction to the Web
@@ -7,23 +14,25 @@ WEB SEC OUTLINE
 - Web application architecture
 - Understanding the client-server model
 
-### SSL/TLS and HTTPS
+### Understanding OSI and TCP/IP Models
 
-- How SSL/TLS secures web traffic
-- Certificates and encryption basics
-- Common misconfigurations and vulnerabilities
-
+- Layers and their role in web communication
+- Key protocols: TCP, UDP, and DNS,HTTP
 ### HTTP Protocol
 
 - Request and response lifecycle
 - HTTP methods (GET, POST, PUT, DELETE, etc.)
 - Status codes and their significance
 - Headers and cookies
+- etc
 
-### Understanding OSI and TCP/IP Models
+### SSL/TLS and HTTPS
 
-- Layers and their role in web communication
-- Key protocols: TCP, UDP, and DNS
+- How SSL/TLS secures web traffic
+- Certificates and encryption basics
+- Common misconfigurations and vulnerabilities
+- etc
+
 
 ### Building a Web Application
 
@@ -84,6 +93,8 @@ WEB SEC OUTLINE
 #### OAuth 2.0 Authentication Vulnerabilities
 
 ### API TESTING 
+### Chaining Cases 
+### How To Get RCE from each bug  
 #### Etc.
 
 ### WebSocket Attacks
@@ -105,3 +116,4 @@ WEB SEC OUTLINE
 ### Preparing for the Interview
 
 - Interview Preparation: Common questions and scenarios
+  
