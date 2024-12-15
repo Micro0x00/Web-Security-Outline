@@ -94,9 +94,9 @@ WEB SEC OUTLINE
 
 #### OAuth 2.0 Authentication Vulnerabilities
 
-### API TESTING 
-### Chaining Cases 
-### How To Get RCE from each bug  
+#### API TESTING 
+#### Chaining Cases 
+#### How To Get RCE from each bug  
 #### Etc,
 
 ### WebSocket Attacks
